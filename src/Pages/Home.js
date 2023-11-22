@@ -1,14 +1,15 @@
 import React from 'react';
 import Lottie from "lottie-react";
 import SpaceBoy from "../LottieFiles/SpaceBoy.json";
-import Typed from "./Typed.js";
+import Typed from "../Components/Typed.js";
 import Tilt from 'react-parallax-tilt';
 import Avatar from '../images/Avatar.png';
 import { CiCoffeeCup } from "react-icons/ci";
+import Layout from '../Components/AppLayout/Layout.js';
 
 const Home = () => {
   return (
-    <div >
+    <Layout>
       <div className='HomePage'>
 
         <div className='HomeText'>
@@ -38,7 +39,7 @@ const Home = () => {
           <img className='Avatar' src={Avatar} alt="" />
         </Tilt>
       </div>
-    </div>
+    </Layout>
   )
 }
 

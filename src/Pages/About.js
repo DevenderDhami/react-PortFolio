@@ -1,12 +1,13 @@
 import React from 'react';
-import Skills from './Skills.js';
+import Skills from '../Components/Skills.js';
 import Tilt from 'react-parallax-tilt';
 import Lottie from "lottie-react"
 import Coder from '../LottieFiles/coder.json';
+import Layout from '../Components/AppLayout/Layout.js';
 
 const About = () => {
   return (
-    <>
+    <Layout>
       <div className='AboutPage'>
         <div className='AboutText'>
           <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
@@ -46,7 +47,7 @@ const About = () => {
         <Skills skill='NextJs' />
 
       </div>
-    </>
+    </Layout>
   )
 }
 

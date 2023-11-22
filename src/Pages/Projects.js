@@ -1,13 +1,11 @@
 import React from 'react';
-import ProjectBox from './ProjectBox';
-import NewsletterImage from '../images/NewsletterImage.png';
-import RogfreeImage from '../images/RogfreeImage.png';
-import TindogImage from '../images/TindogImage.png';
+import ProjectBox from '../Components/ProjectBox';
 import MedpreneurWeb from '../images/medreneur-web.png';
+import Layout from '../Components/AppLayout/Layout';
 
 const Projects = () => {
   return (
-    <div>
+    <Layout>
       <h1 className='projectHeading'>My <b>Projects</b></h1>
       <div className='project'>
         <ProjectBox projectPhoto={MedpreneurWeb} projectName="Medpreneur Web" />
@@ -16,7 +14,7 @@ const Projects = () => {
         {/* <ProjectBox projectPhoto={TindogImage} projectName="Tindog" /> */}
       </div>
 
-    </div>
+    </Layout>
   )
 }
 
