@@ -171,7 +171,8 @@ b {
     position: fixed;
     inset: 0 0 0 50%;
     gap: 50px;
-    background-color: #431f47;
+    /* background-color: #431f47; */
+    background-color: #2e3b45f8;
     height: 100vh;
     padding-top: max(20%, 120px);
     transform: translateX(100%);
