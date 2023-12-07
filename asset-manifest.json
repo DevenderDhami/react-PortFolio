@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-PortFolio/static/css/main.f15557d5.css",
+    "main.css": "/react-PortFolio/static/css/main.38300594.css",
     "main.js": "/react-PortFolio/static/js/main.369598c1.js",
     "static/media/medreneur-web.png": "/react-PortFolio/static/media/medreneur-web.cf6dfe9cb66a13e8f1c5.png",
     "static/media/Avatar.png": "/react-PortFolio/static/media/Avatar.fa312ccf8f85946c64d0.png",
     "static/media/Resume.pdf": "/react-PortFolio/static/media/Resume.43dd78a0101145f3b99e.pdf",
     "index.html": "/react-PortFolio/index.html",
-    "main.f15557d5.css.map": "/react-PortFolio/static/css/main.f15557d5.css.map",
+    "main.38300594.css.map": "/react-PortFolio/static/css/main.38300594.css.map",
     "main.369598c1.js.map": "/react-PortFolio/static/js/main.369598c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.f15557d5.css",
+    "static/css/main.38300594.css",
     "static/js/main.369598c1.js"
   ]
 }
