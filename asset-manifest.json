@@ -1,18 +1,20 @@
 {
   "files": {
     "main.css": "/react-PortFolio/static/css/main.02fbad52.css",
-    "main.js": "/react-PortFolio/static/js/main.bcd7a897.js",
+    "main.js": "/react-PortFolio/static/js/main.cb6e7da2.js",
     "static/media/Age-Calculator.png": "/react-PortFolio/static/media/Age-Calculator.f9936ab261205ca0db1f.png",
     "static/media/medreneur-web.png": "/react-PortFolio/static/media/medreneur-web.cf6dfe9cb66a13e8f1c5.png",
     "static/media/Avatar.png": "/react-PortFolio/static/media/Avatar.fa312ccf8f85946c64d0.png",
     "static/media/HexaTp.png": "/react-PortFolio/static/media/HexaTp.e34c65b608e20cfa1293.png",
+    "static/media/KaksyaAdmin.png": "/react-PortFolio/static/media/KaksyaAdmin.c670b843ef49ffbbfd35.png",
     "static/media/Resume.pdf": "/react-PortFolio/static/media/Resume.58f518eb32a0b8e04c52.pdf",
+    "static/media/SCGhealth.png": "/react-PortFolio/static/media/SCGhealth.f71bac999a077f12fbae.png",
     "index.html": "/react-PortFolio/index.html",
     "main.02fbad52.css.map": "/react-PortFolio/static/css/main.02fbad52.css.map",
-    "main.bcd7a897.js.map": "/react-PortFolio/static/js/main.bcd7a897.js.map"
+    "main.cb6e7da2.js.map": "/react-PortFolio/static/js/main.cb6e7da2.js.map"
   },
   "entrypoints": [
     "static/css/main.02fbad52.css",
-    "static/js/main.bcd7a897.js"
+    "static/js/main.cb6e7da2.js"
   ]
 }
