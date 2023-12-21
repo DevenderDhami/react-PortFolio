@@ -12,9 +12,6 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
     SCGHealthDesc: "SCG health App is made using React Ionic ,It is fully functional App made for client - SCG Health",
     SCGHealthApp: "https://play.google.com/store/apps/details?id=com.scghealth.app&pcampaignid=web_share",
 
-    "Kaksya AdminDesc": "Kaksya Admin is an Admin Panel of ELearning website  made using React Ionic and graphql queries.",
-    "Kaksya AdminWebsite": "https://guru-ra.vercel.app/#/login",
-
     HexaTpDesc: "Hexatp is made using NextJs and Tailwind CSS ,It is fully functional website made for client - HexaBull",
     HexaTpWebsite: "https://caselaws.luezoid.com/",
 

@@ -13,7 +13,6 @@ const Projects = () => {
       <h1 className='projectHeading'>My <b>Projects</b></h1>
       <div className='project'>
         <ProjectBox projectPhoto={MedpreneurWeb} projectName="Medpreneur Web" />
-        <ProjectBox projectPhoto={KaksyaAdmin} projectName="Kaksya Admin" />
         <ProjectBox projectPhoto={SCGHealth} projectName="SCGHealth" />
         <ProjectBox projectPhoto={HexaTp} projectName="HexaTp" />
         <ProjectBox projectPhoto={AgeCalculator} projectName="AgeCalculator" />
