@@ -2,7 +2,6 @@ import React from 'react';
 import ProjectBox from '../Components/ProjectBox';
 import MedpreneurWeb from '../images/medreneur-web.png';
 import SCGHealth from '../images/SCGhealth.png';
-import KaksyaAdmin from '../images/KaksyaAdmin.png';
 import HexaTp from '../images/HexaTp.png';
 import AgeCalculator from '../images/Age-Calculator.png';
 import Layout from '../Components/AppLayout/Layout';

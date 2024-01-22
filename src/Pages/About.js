@@ -30,7 +30,7 @@ const About = () => {
           <div>
             <p>
 
-              Hello, I'm <b>Devender Singh</b>, originally   from Uttarakhand (India), currently living in Delhi (India). I'm actively employed as a <b>Front-End Developer</b> with <b> {years ? `${years} Years &` : ""} {months ? `${months} months` : ""} </b> of professional experience at <b>Luezoid Technologies Pvt. Ltd.</b> <br /><br />
+              Hello, I'm <b>Devender Singh</b>, originally   from Uttarakhand (India), currently living in Delhi (India). I'm actively employed as a <b>Front-End Developer</b> with <b> {years ? `${years} Year ` : ""} {months ? `& ${months} months` : ""} </b> of professional experience at <b>Luezoid Technologies Pvt. Ltd.</b> <br /><br />
             </p>
             <div className='whatIdid'> <b>
               What I did as FrontEnd Developer
