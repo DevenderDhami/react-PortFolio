@@ -8,6 +8,9 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
 
     "Medpreneur WebDesc": "Medpreneur is a single page static Website. Medpreneur is made using HTML5, CSS, and JavaScript .",
     "Medpreneur WebWebsite": "https://www.medpreneur.in/",
+    
+    "Nidhi AcademyDesc": "Nidhi Academy is an eLearning platform . It is build using Next Js 13 , Tailwind CSS for styling, axios and graphQl for data fetching.",
+    "Nidhi AcademyWebsite": "https://nidhiacademyonline.com/",
 
     SCGHealthDesc: "SCG health App is made using React Ionic ,It is fully functional App made for client - SCG Health",
     SCGHealthApp: "https://play.google.com/store/apps/details?id=com.scghealth.app&pcampaignid=web_share",
@@ -17,6 +20,7 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
 
     AgeCalculatorDesc: "AgeCalculator is made using React. This website is build to calculate the age on the  current date.",
     AgeCalculatorWebsite: "https://devenderdhami.github.io/react-ageCalculator/",
+
   }
 
 

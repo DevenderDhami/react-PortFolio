@@ -45,7 +45,9 @@ const Nav = () => {
     return (
         <>
             <nav className={navbarblur ? 'Navbar blur' : 'Navbar'}>
-                <h1 onClick={() => setShow(!show)} title='Reload' className='Logo'>
+                <h1
+                    // onClick={() => setShow(!show)}
+                    title='Reload' className='Logo'>
                     <img src={LOGO} height={40} alt='logo' />
                 </h1>
 
